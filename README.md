@@ -1,2 +1,2 @@
-# Main-Machine-Learnin
+# Main-Machine-Learning
 Practica de Machine Learning
